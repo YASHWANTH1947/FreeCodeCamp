@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+}
+fieldset{
+    border: none;
+}
+form{
+    width: 70%;
+    min-width: 300px;
+    padding: 20px auto;
+    
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
+label{
+    display: block;
+}
+input,select,textarea{
+    width: 100%;
+}
+h1,p{
+    text-align: center;
+}
+
+
+input[type="submit"]{
+    width: 30vw;
+    margin-bottom: 10px;
+}
